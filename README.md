@@ -154,7 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Simon Jerry - [Github](https://github.com/swagasoft) / [Twitter](https://twitter.com/swagasoft)  
+Peter Karanja - [Github](https://github.com/pkaranja60)  
 
 Second part of Airbnb: 
 ## License
